@@ -142,7 +142,7 @@
   color: #fff;
 }
 #app.embedded .headerPanel {
-  background-image: url('../img/coreplayer-pagingheaderpanel-module/logo.png');
+  background-image: url('../img/coreplayer-pagingheaderpanel-module/new-logo.png');
   background-repeat: no-repeat;
   background-position: 8px 8px;
 }
@@ -449,7 +449,7 @@ input.action {
 }
 #app .headerPanel .centerOptions {
   margin: 5px 0 0 0;
-  width: 385px;
+  width: 390px;
   position: absolute;
 }
 #app .headerPanel .rightOptions {
